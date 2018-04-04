@@ -20,6 +20,7 @@ Tool to create and manage Ethereum nodes.
 
 *node-mgr* will look for a config.yml file in the current directory.
 
+* **base_name:** base name for containers and docker network
 * **data_path:** folder to save required data by the different nodes
 * **source_code:** local folder where the code is located, if left empty it will use the remote git repository specified at git_repo
 * **git_repo:** remote git repository where the code is located, if left empty (and source_code too), it will clone the ethereum/go-ethereum repository
