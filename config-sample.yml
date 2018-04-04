@@ -1,0 +1,5 @@
+base_name: ethereum
+data_path: /path/to/store/data/
+source_code: /path/to/your/local/repository
+git_repo:
+etherbase: "0x0000000000000000000000000000000000000000"
