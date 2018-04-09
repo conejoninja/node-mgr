@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/conejoninja/node-mgr/cmd"
+	"github.com/conejoninja/nodectl/cmd"
 )
 
 func main() {

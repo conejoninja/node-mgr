@@ -1,10 +1,10 @@
-## Node Manager
+## NodeCtl
 
 Tool to create and manage Ethereum nodes.
 
 ### Usage
 
-*node-mgr* will look for a config.yml file in the current directory.
+*nodectl* will look for a config.yml file in the current directory.
 
 #### Commands
 
@@ -18,7 +18,7 @@ Tool to create and manage Ethereum nodes.
 
 #### Configuration
 
-*node-mgr* will look for a config.yml file in the current directory.
+*nodectl* will look for a config.yml file in the current directory.
 
 * **base_name:** base name for containers and docker network
 * **data_path:** folder to save required data by the different nodes
